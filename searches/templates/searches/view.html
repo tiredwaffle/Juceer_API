@@ -1,0 +1,28 @@
+<!-- template for results of the search or informing the user that there are no results -->
+
+{% extends "base.html" %}
+
+{% block content %}
+ 
+<div class='row'>
+	<div class = 'col-12 col-8 mx-auto'>
+		{% if query %}
+		<p class = 'lead'> You searched for '{{query}}' </p>
+		{% else %}
+		<form class="form-inline my-8 my-lg-0" action = "/search/">
+      	<input class="form-control mr-sm-2" type="search" name = "q" placeholder="Search your music!" aria-label="Search">
+      	<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    	</form>
+		{% endif %}
+		{% for s_item in s_list%}
+			<li><a href = '/juceer/0.1/songs/{{s_item.song_id}}/'>{{s_item.song_id}}</a>
+				by
+				<a href = '/juceer/0.1/artists/{{s_item.artist_id}}/'>{{s_item.artist_name}}</a>
+			</li>
+			<hr>
+		{% endfor %}
+
+	</div>
+</div>
+
+{% endblock %}

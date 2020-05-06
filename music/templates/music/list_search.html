@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1> List {{title}}</h1>
+	<hr>
+	{% for a in object_list %}
+	{% if a != '' and a != ' ' %}
+		<li><a href='/search/?q={{a}}/'>{{a}}</a></li>
+		<hr>
+	{% endif %}
+	{% endfor %}
+	
+{% endblock %}
+

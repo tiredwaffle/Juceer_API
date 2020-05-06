@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1>{{title}}</h1>
+	<hr>
+	{% for object in object_list %}
+		<li> <a href = '/juceer/0.1/songs/{{object.song_id}}/'>{{object.song_id}}</a> by <a href = '/juceer/0.1/artists/{{object.artist_id}}/'>{{object.artist_name}}</a></li>
+ 		<hr>
+	{% endfor %}
+	
+{% endblock %}
+
+

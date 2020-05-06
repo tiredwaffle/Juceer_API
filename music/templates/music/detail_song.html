@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>{{object.song_id}}</h2>
+
+<div class="container">
+	<div class="card border-primary mb-3">
+		<div class="card-header" id="headingOne">
+			<h2 class="mb-0">
+				<button class="btn btn-primary btn-smbtn-primary " data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+				Information about song
+			</button>
+			</h2>
+		</div>
+		<div id="collapseOne" class="collapse" aria-labelledby="headingOne">
+			<div class="card-body">
+	<p>Release id: {{object.release_id}}</p>
+	<p>Song Hotttnesss: {{object.song_hotttnesss}}</p>
+	<p>Song Year: <a href = '/juceer/0.1/years/{{object.song_year}}/25'>{{object.song_year}}</a></p>
+			</div>
+		</div>
+	</div>
+	<div class="card border-primary mb-3">
+		<div class="card-header" id="headingTwo">
+			<h2 class="mb-0">
+				<button class="btn btn-primary btn-smbtn-primary " data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				Information about artist
+			</button>
+			</h2>
+		</div>
+		<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo">
+			<div class="card-body">
+				<p>Artist name: <a href = '/juceer/0.1/artists/{{object.artist_id}}/'>{{object.artist_name}}</a></p>
+				<p>Artist ID: <a href = '/juceer/0.1/artists/{{object.artist_id}}/'>{{object.artist_id}}</a></p>
+				<p>Artist Terms: <a href = '/juceer/0.1/genres/{{object.artist_terms}}'>{{object.artist_terms}}</a></p>
+				<p>Artist Hotttnesss: {{object.artist_hotttnesss}}</p>
+			</div>
+		</div>
+	</div>
+	<div class="card border-primary mb-3">
+		<div class="card-header" id="headingThree">
+			<h2 class="mb-0">
+				<button class="btn btn-primary btn-smbtn-primary " data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				Useful Links
+			</button>
+			</h2>
+		</div>
+		<div id="collapseThree" class="collapse" aria-labelledby="headingThree">
+			<div class="card-body">
+				<p>Other <a href = '/juceer/0.1/artists/{{object.artist_id}}/song/'>songs</a> of this artist</p>
+				<a href = "https://www.google.com/?q={{object.artist_name}}" font  color="red"> Google it!</a>
+	<hr>
+			</div>
+		</div>
+	</div>
+</div>
+
+{% endblock %} 
+

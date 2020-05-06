@@ -1,0 +1,792 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"comments"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"art",
+				"artist_id"
+			],
+			[
+				"Commen",
+				"CommentForm"
+			],
+			[
+				"Comment",
+				"CommentPost"
+			],
+			[
+				"atr",
+				"artist_id"
+			],
+			[
+				"arti",
+				"artist_id"
+			],
+			[
+				"comm",
+				"comment_list"
+			],
+			[
+				"co",
+				"comment_list"
+			],
+			[
+				"f",
+				"flat"
+			],
+			[
+				"song",
+				"song_year"
+			],
+			[
+				"m",
+				"many"
+			],
+			[
+				"so",
+				"song_hotttnesss"
+			],
+			[
+				"ho",
+				"home_page"
+			],
+			[
+				"at",
+				"artist_id"
+			],
+			[
+				"lis",
+				"list_year"
+			],
+			[
+				"ar",
+				"artist_name"
+			],
+			[
+				"artist_",
+				"artist_name"
+			],
+			[
+				"song_",
+				"song_year"
+			],
+			[
+				"yea",
+				"song_year"
+			],
+			[
+				"list",
+				"list_artist"
+			],
+			[
+				"artist",
+				"artist_terms"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"a",
+				"artist_terms"
+			],
+			[
+				"son",
+				"song_year"
+			],
+			[
+				"o",
+				"order_by"
+			],
+			[
+				"csv",
+				"csv_file"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"get",
+				"get_object"
+			],
+			[
+				"get_o",
+				"get_object_or_404"
+			],
+			[
+				"Music",
+				"MusicPost"
+			],
+			[
+				"artis",
+				"artist_id"
+			],
+			[
+				"obj",
+				"object_list"
+			],
+			[
+				"qs",
+				"qs_list"
+			],
+			[
+				"arist",
+				"artist_name"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"stat",
+				"statistics"
+			],
+			[
+				"me",
+				"median"
+			],
+			[
+				"atis",
+				"artist_name"
+			],
+			[
+				"Ob",
+				"objects"
+			],
+			[
+				"Jucee",
+				"JuceerSong"
+			],
+			[
+				"io",
+				"io_string"
+			],
+			[
+				"Ser",
+				"search"
+			],
+			[
+				"Blo",
+				"BlogPostForm"
+			],
+			[
+				"cl",
+				"cleaned_date"
+			],
+			[
+				"cote",
+				"context"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"blog",
+				"BlogPost"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"LIN",
+				"line"
+			],
+			[
+				"LINE",
+				"line_count"
+			],
+			[
+				"WORD",
+				"word_count"
+			],
+			[
+				"word",
+				"word_count"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"wo",
+				"word_count"
+			],
+			[
+				"line",
+				"line_count"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"file",
+				"file_object"
+			],
+			[
+				"p",
+				"print\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "music/templates/music/Stat_artist.html",
+			"settings":
+			{
+				"buffer_size": 1003,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "music/templates/music/list_artist.html",
+			"settings":
+			{
+				"buffer_size": 295,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "music/urls.py",
+			"settings":
+			{
+				"buffer_size": 1948,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "music/templates/music/detail_song.html",
+			"settings":
+			{
+				"buffer_size": 2231,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/yulyz/Desktop/web/Juceer",
+		"/C/Users/yulyz/Desktop/web/Juceer/Juceer",
+		"/C/Users/yulyz/Desktop/web/Juceer/music",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music"
+	],
+	"file_history":
+	[
+		"/C/Users/yulyz/Desktop/web/Juceer/templates/navbar.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/list_artist.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/detail_artist.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/detail_song.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/Juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/templates/base.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/templates/home.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/base_page.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/Juceer/settings.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/templates/comments/create_form.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/searches/views.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/views.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/forms.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/urls.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/models.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/views.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/serializers.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/Juceer/forms.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/templates/comments/list_comment.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/list_years.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/urls.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/comments/admin.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/admin.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/searches/models.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/searches/templates/searches/view.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/Juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/list_genre.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/Stat_artist.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/templates/about_page.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/list_song.html",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/serializers.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/models.py",
+		"/C/Users/yulyz/Desktop/web/Juceer/music/templates/music/detail.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/detail.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/templates/navbar.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/searches/templates/searches/view.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/list_search.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/list_song.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/list_years.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/prj/views.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/list_artist.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/list.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/detail_artist.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/templates/home.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/create.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/searches/views.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/models.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/models.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/juceer/templates/juceer/list_genre.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/prj/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/templates/base.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/templates/form.html",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/prj/settings.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/song/views.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/song/forms.py",
+		"/C/Users/yulyz/Desktop/web/prj_14_10/src/song/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/templates/juceer/list.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/prj/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/templates/uploading.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/templates/song/list.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/templates/song/detail.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/models.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/models.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/song/forms.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/prj/settings.py",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/juceer/templates/juceer/create.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/templates/navbar.html",
+		"/C/Users/yulyz/Desktop/web/prj - Copy/src/templates/home.html",
+		"/C/Users/yulyz/Desktop/web/prj/src/prj/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/forms.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/prj/views.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/tests.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/models.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/views.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/prj/settings.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/urls.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/juceer/admin.py",
+		"/C/Users/yulyz/Desktop/web/prj/src/templates/about_page.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/views.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/navbar.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/detail.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/about_page.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/list.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/home.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/form.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/base.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/js.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/models.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/forms.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/delete.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/views.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/not_a_user.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/urls.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/urls.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/admin.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/base_page.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/forms.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/create.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/tests.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/apps.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/hello_world.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/newpr/forms.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog/update.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/blog/templates/blog_post_create.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/settings.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_list.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_detail.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_update.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_delete.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_create.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/templates/blog_post_details.html",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/manage.py",
+		"/C/Users/yulyz/Desktop/web/udemy_pr/src/newpr/home.html",
+		"/C/Users/yulyz/Desktop/as5_4.py",
+		"/C/Users/yulyz/Desktop/as5_3.py",
+		"/C/Users/yulyz/Desktop/as5_2d2.py",
+		"/C/Users/yulyz/Desktop/as5_2d.py",
+		"/C/Users/yulyz/Desktop/as5_2c.py",
+		"/C/Users/yulyz/Desktop/as5_2b.py",
+		"/C/Users/yulyz/Desktop/as5_2a.py",
+		"/C/Users/yulyz/Desktop/countwords3.py",
+		"/C/Users/yulyz/Desktop/countwords4.py",
+		"/C/Users/yulyz/Desktop/as5.2a.py",
+		"/C/Users/yulyz/Desktop/as5.2b.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"from django.shortcuts import render, get_object_or_404\nfrom django.http import HttpResponse, JsonResponse, Http404\nfrom django.views.decorators.csrf import csrf_exempt\nfrom django.db.models import CharField, Value\n\nfrom music.models import MusicPost\nfrom music.serializers import MusicSerializer\n\nfrom searches.models import SearchQuery\n\nfrom rest_framework import status\nfrom rest_framework.decorators import api_view\nfrom rest_framework.response import Response\nfrom rest_framework.views import APIView\nfrom rest_framework.parsers import JSONParser,FileUploadParser \nfrom rest_framework.renderers import TemplateHTMLRenderer, JSONRenderer\nfrom rest_framework import generics\nfrom rest_framework_csv.renderers import CSVRenderer\n\nimport csv\nimport json\nimport statistics\n\nfrom django.views.generic import View\nfrom django.http import HttpResponse\n\n\nclass music_list(APIView):\n    renderer_classes = [JSONRenderer,CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/list_artist.html'\n\n    def get(self, request, format = None):\n        music = MusicPost.objects.order_by('artist_name').values('artist_id', 'artist_name', 'artist_info').distinct()\n        title = \"List of artists\"\n        serializer = MusicSerializer(music, many=True)\n        return Response({'object_list': serializer.data,  'title': title})\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass music_pop_list(APIView):\n    renderer_classes = [JSONRenderer,CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/list_artist.html'\n    \n    def get(self, request, number = None, format = None):\n        if (int(number) == 0):\n            raise Http404\n        music = MusicPost.objects.order_by('artist_hotttnesss').reverse().values('artist_id', 'artist_name', 'artist_info').distinct()\n        title = \"List of artists by popularity\"\n        if (number == None):\n            serializer = MusicSerializer(music, many=True)\n        else:\n            serializer = MusicSerializer(music[:int(number)], many=True)\n        return Response({'object_list': serializer.data,  'title': title})\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass music_detail(APIView):\n    \"\"\"\n    Retrieve, update or delete a code music.\n    \"\"\"\n    renderer_classes = [JSONRenderer, CSVRenderer ,TemplateHTMLRenderer]\n    template_name = 'music/detail_artist.html'\n\n    def get_object(self, artist_id):\n        try:\n            music = MusicPost.objects.get(artist_id = artist_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, artist_id, format = None):\n        #music = MusicPost.objects.get(artist_id = artist_id)\n        music = MusicPost.objects.filter(artist_id = artist_id).values(\"artist_hotttnesss\", \"artist_id\", \"artist_name\", \"artist_terms\").all()\n        if (len(music)==0):\n            raise Http404\n        serializer = MusicSerializer(music[0])\n        context = {\n        \"object\": serializer.data,\n        \"songs_of_the_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(artist_id) + '/songs/',\n        \"statistic_of_the_artist\": 'http://127.0.0.1:8000/juceer/0.1/statistics/mean/artists/' + str(artist_id) + '/',\n        }\n        return Response(context)\n        \n    def put(self, request, artist_id, format = None):\n        music = self.get_object(artist_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass music_year_list(APIView):\n    renderer_classes = [JSONRenderer,CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/list_artist.html'\n    \n    def get(self, request, format = None):\n        music = MusicPost.objects.order_by('song_year').reverse().values('song_year').distinct()\n        title = \"List of years\"\n        serializer = MusicSerializer(music, many=True)\n        return Response({'object_list': serializer.data, 'link':\"/juceer/0.1/artists/years/\", 'title': title, 'song_year': song_year})\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\n\nclass songs_list(APIView):\n    renderer_classes = [JSONRenderer, CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/list_song.html'\n\n    def get(self, request, artist_id = None, song_year = None, format = None):\n        #music = MusicPost.objects.all()\n        if (artist_id == None or song_year == None):\n            music = MusicPost.objects.order_by('song_hotttnesss').reverse().all()\n            title = \"List of songs\"\n        elif(artist_id != None and song_year != None):\n            music = MusicPost.objects.filter(artist_id = artist_id, song_year = song_year).all()\n            if(len(music)==0):\n                raise Http404\n            title = \"List of songs of \"+ music[0].artist_name + \" in \" + song_year\n        serializer = MusicSerializer(music, many=True)\n        return Response({'object_list': serializer.data,  'title': title })\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\n        #serializer_class = MusicSerializer\n\nclass song_detail(APIView):\n    \"\"\"\n    Retrieve, update or delete a code music.\n    \"\"\"\n    renderer_classes = [JSONRenderer,  CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/detail_song.html'\n\n    def get_object(self, song_id):\n        try:\n            music = MusicPost.objects.get(song_id = song_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, song_id, format = None):\n        #music = MusicPost.objects.get(artist_id = artist_id)\n        music = MusicPost.objects.filter(song_id = song_id).all()\n        if (len(music)==0):\n            raise Http404\n        serializer = MusicSerializer(music[0])\n        context = {\n        \"object\": serializer.data,\n        \"songs_of_the_same_year\": 'http://127.0.0.1:8000/juceer/0.1/years/'+ str(music[0].song_year) + '/',\n        \"songs_of_the_same_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(music[0].artist_id) + '/songs/',\n        \"artists_of_the_same_ganre\": 'http://127.0.0.1:8000/juceer/0.1/genres/' + str(music[0].artist_terms) + '/artists/',\n        \"google_artist\": 'https://www.google.com/?q=' + music[0].artist_name + '/',\n        }\n        return Response(context)\n        \n    def put(self, request, song_id, format = None):\n        music = self.get_object(song_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\n    def delete (self, request, song_id, format = None):\n        music = MusicPost.objects.filter(song_id = song_id).all()\n        music.delete()\n        return Response(status=status.HTTP_204_NO_CONTENT)\n\nclass songs_pop_year_list(APIView):\n    renderer_classes = [JSONRenderer, TemplateHTMLRenderer]\n    template_name = 'music/list_song.html'\n    \n    def get(self, request, number = None, song_year= None, format = None):\n        if (int(number) == 0):\n            raise Http404\n        if (number == None or song_year == None):\n            raise Http404\n        elif(number != None and song_year != None):\n            music = MusicPost.objects.filter(song_year = song_year).order_by('artist_hotttnesss').reverse().values('artist_id', 'artist_name', 'artist_info', 'song_id').distinct()\n            title = \"List of songs by popularity in \"+song_year\n            serializer = MusicSerializer(music, many=True)\n        return Response({'object_list': serializer.data,  'title': title, 'song_year': song_year})\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass song_years_list(APIView):\n    renderer_classes = [JSONRenderer,  CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/list_years.html'\n    \n    def get(self, request, format = None):\n        music = MusicPost.objects.order_by('song_year').reverse().values('song_year').distinct()\n        title = \"List of songs by years\"\n        serializer = MusicSerializer(music, many=True)\n        return Response({'object_list': serializer.data,  'title': title})\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass genre_list(APIView):\n    renderer_classes = [JSONRenderer, CSVRenderer,  TemplateHTMLRenderer]\n    template_name = 'music/list_genre.html'\n\n    def get(self, request, format = None):\n        music = MusicPost.objects.order_by('artist_terms').values('artist_terms').distinct()\n        title = \"List of genres\"\n        serializer = MusicSerializer(music, many=True)\n        return Response({'object_list': serializer.data,  'title': title })\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass artist_genre_list(APIView):\n    renderer_classes = [JSONRenderer,  CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/list_artist.html'\n\n    def get(self, request, artist_terms = None, format = None):\n        music = MusicPost.objects.filter(artist_terms = artist_terms).order_by('artist_name').values(\"artist_id\", \"artist_name\", \"artist_info\").distinct()\n        if (len(music)==0):\n            raise Http404\n        title = \"List of artists of \"+ artist_terms.replace(\"_\", \" \") + \" genre\"\n        serializer = MusicSerializer(music, many=True)\n        return Response({'object_list': serializer.data,  'title': title })\n\n    def post(self, request, format = None):\n        serializer = MusicSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\n\nclass stat_mean(APIView):\n\n    renderer_classes = [JSONRenderer,  CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/stat_artist.html'\n\n    def get_object(self, song_id):\n        try:\n            music = MusicPost.objects.get(song_id = song_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, artist_id = None, format = None):\n        if (artist_id == None):\n            raise Http404\n        music = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_hotttnesss', flat=True))\n        if (len(music)==0):\n            raise Http404\n        list_year = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_year', flat=True).distinct())\n\n        serializer = MusicSerializer(music[0])\n        artist_name = MusicPost.objects.filter(artist_id = artist_id).all()\n        context = {\n        \"object\": serializer.data,\n        \"mean\": statistics.mean(music),\n        \"artist_name\": artist_name[0].artist_name,\n        \"artist_id\": artist_id,\n        \"stat\": list_year,\n        \"median\": 'http://127.0.0.1:8000/juceer/0.1/statistics/median/artists/'+ str(artist_id) + '/',\n        \"std_deviation\": 'http://127.0.0.1:8000/juceer/0.1/statistics/std_dev/artists/'+ str(artist_id) + '/',\n        \"songs_of_the_same_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(artist_id) + '/songs/',\n        }\n\n        return Response(context)\n        \n    def put(self, request, song_id, format = None):\n        music = self.get_object(song_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass stat_median(APIView):\n\n    renderer_classes = [JSONRenderer,  CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/stat_artist.html'\n\n    def get_object(self, song_id):\n        try:\n            music = MusicPost.objects.get(song_id = song_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, artist_id = None, format = None):\n        if (artist_id == None):\n            raise Http404\n        music = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_hotttnesss', flat=True))\n        if (len(music)==0):\n            raise Http404\n        serializer = MusicSerializer(music[0])\n        list_year = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_year', flat=True).distinct())\n        context = {\n        \"object\": serializer.data,\n        \"stat\": list_year,\n        \"mean\": 'http://127.0.0.1:8000/juceer/0.1/statistics/mean/artists/'+ str(artist_id) + '/',\n        \"median\": statistics.median(music),\n        \"std_deviation\": 'http://127.0.0.1:8000/juceer/0.1/statistics/std_dev/artists/'+ str(artist_id) + '/',\n        \"songs_of_the_same_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(artist_id) + '/songs/',\n        }\n\n        return Response(context)\n        \n    def put(self, request, song_id, format = None):\n        music = self.get_object(song_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass stat_std_dev(APIView):\n\n    renderer_classes = [JSONRenderer,  CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/stat_artist.html'\n\n    def get_object(self, song_id):\n        try:\n            music = MusicPost.objects.get(song_id = song_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, artist_id = None, format = None):\n        if (artist_id == None):\n            raise Http404\n        qs = MusicPost.objects.filter(artist_id = artist_id).all()\n        if (len(qs)==0):\n            raise Http404\n        music = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_hotttnesss', flat=True))\n        numb = len(music)\n        if(numb > 1):\n            std_deviation = statistics.stdev(music)\n        else:\n            std_deviation = 0\n        serializer = MusicSerializer(music[0])\n        list_year = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_year', flat=True).distinct())\n        context = {\n        \"object\": serializer.data,\n        \"stat\": list_year,\n        \"mean\": 'http://127.0.0.1:8000/juceer/0.1/statistics/mean/artists/'+ str(artist_id) + '/',\n        \"median\": 'http://127.0.0.1:8000/juceer/0.1/statistics/median/artists/'+ str(artist_id) + '/',\n        \"std_deviation\": str(std_deviation),\n        \"songs_of_the_same_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(artist_id) + '/songs/',\n        }\n\n        return Response(context)\n        \n    def put(self, request, song_id, format = None):\n        music = self.get_object(song_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\n\nclass stat_mean_year(APIView):\n\n    renderer_classes = [JSONRenderer, CSVRenderer,  TemplateHTMLRenderer]\n    template_name = 'music/stat_artist.html'\n\n    def get_object(self, song_id):\n        try:\n            music = MusicPost.objects.get(song_id = song_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, artist_id = None, song_year =  None, format = None):\n        if (artist_id == None or song_year == None):\n            raise Http404\n        music = list(MusicPost.objects.filter(artist_id = artist_id).filter(song_year=song_year).values_list('song_hotttnesss', flat=True))\n        if (len(music)==0):\n            raise Http404\n        list_year = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_year', flat=True).distinct())\n\n        serializer = MusicSerializer(music[0])\n        artist_name = MusicPost.objects.filter(artist_id = artist_id).all()\n        context = {\n        \"object\": serializer.data,\n        \"mean\": statistics.mean(music),\n        \"artist_name\": artist_name[0].artist_name,\n        \"artist_id\": artist_id,\n        \"stat\": list_year,\n        \"year\": song_year,\n        \"median\": 'http://127.0.0.1:8000/juceer/0.1/statistics/median/artists/'+ str(artist_id) + '/',\n        \"std_deviation\": 'http://127.0.0.1:8000/juceer/0.1/statistics/std_dev/artists/'+ str(artist_id) + '/',\n        \"songs_of_the_same_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(artist_id) + '/songs/',\n        }\n\n        return Response(context)\n        \n    def put(self, request, song_id, format = None):\n        music = self.get_object(song_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass stat_median_year(APIView):\n\n    renderer_classes = [JSONRenderer,  CSVRenderer, TemplateHTMLRenderer]\n    template_name = 'music/stat_artist.html'\n\n    def get_object(self, song_id):\n        try:\n            music = MusicPost.objects.get(song_id = song_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, artist_id = None, song_year=None, format = None):\n        if (artist_id == None):\n            raise Http404\n        music = list(MusicPost.objects.filter(artist_id = artist_id).filter(song_year=song_year).values_list('song_hotttnesss', flat=True))\n        if (len(music)==0):\n            raise Http404\n        serializer = MusicSerializer(music[0])\n        artist_name = MusicPost.objects.filter(artist_id = artist_id).all()\n        list_year = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_year', flat=True).distinct())\n        context = {\n        \"object\": serializer.data,\n        \"artist_name\": artist_name[0].artist_name,\n        \"artist_id\": artist_id,\n        \"stat\": list_year,\n        \"year\": song_year,\n        \"mean\": 'http://127.0.0.1:8000/juceer/0.1/statistics/mean/artists/'+ str(artist_id) + '/',\n        \"median\": statistics.median(music),\n        \"std_deviation\": 'http://127.0.0.1:8000/juceer/0.1/statistics/std_dev/artists/'+ str(artist_id) + '/',\n        \"songs_of_the_same_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(artist_id) + '/songs/',\n        }\n\n        return Response(context)\n        \n    def put(self, request, song_id, format = None):\n        music = self.get_object(song_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\nclass stat_std_dev_year(APIView):\n\n    renderer_classes = [JSONRenderer, CSVRenderer,  TemplateHTMLRenderer]\n    template_name = 'music/stat_artist.html'\n\n    def get_object(self, song_id):\n        try:\n            music = MusicPost.objects.get(song_id = song_id)\n        except MusicPost.DoesNotExist:\n            raise Http404\n\n    def get(self, request, artist_id = None, song_year=None, format = None):\n        if (artist_id == None):\n            raise Http404\n        qs = MusicPost.objects.filter(artist_id = artist_id).all()\n        if (len(qs)==0):\n            raise Http404\n        music = list(MusicPost.objects.filter(artist_id = artist_id).filter(song_year=song_year).values_list('song_hotttnesss', flat=True))\n        numb = len(music)\n        if(numb > 1):\n            std_deviation = statistics.stdev(music)\n        else:\n            std_deviation = 0\n        serializer = MusicSerializer(music[0])\n        artist_name = MusicPost.objects.filter(artist_id = artist_id).all()\n        list_year = list(MusicPost.objects.filter(artist_id = artist_id).values_list('song_year', flat=True).distinct())\n        context = {\n        \"object\": serializer.data,\n        \"artist_name\": artist_name[0].artist_name,\n        \"artist_id\": artist_id,\n        \"stat\": list_year,\n        \"year\": song_year,\n        \"mean\": 'http://127.0.0.1:8000/juceer/0.1/statistics/mean/artists/'+ str(artist_id) + '/',\n        \"median\": 'http://127.0.0.1:8000/juceer/0.1/statistics/median/artists/'+ str(artist_id) + '/',\n        \"std_deviation\": str(std_deviation),\n        \"songs_of_the_same_artist\": 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(artist_id) + '/songs/',\n        }\n\n        return Response(context)\n        \n    def put(self, request, song_id, format = None):\n        music = self.get_object(song_id)\n        serializer = MusicSerializer(music, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\n\n\n\nclass MusicCSVExportView(View):\n\n    serializer_class = MusicSerializer\n    \n    def get_serializer(self, queryset, many=True):\n        return self.serializer_class(\n            queryset,\n            many=many,\n        )\n\n    def get(self, request, *args, **kwargs):\n        response = HttpResponse(content_type='text/csv')\n        response['Content-Disposition'] = 'attachment; filename=\"export.csv\"'\n        \n        serializer = self.get_serializer(\n            MusicPost.objects.all(),\n            many=True\n        )\n        header = MusicSerializer.Meta.fields\n        \n        writer = csv.DictWriter(response, fieldnames=header)\n        writer.writeheader()\n        for row in serializer.data:\n            writer.writerow(row)\n        \n        return response\n\nclass MusicCSImportView(View):\n    #MusicPost.objects.all().delete()\n    def get(self, request):\n        CSV_PATH = 'C:/Users/yulyz/Downloads/music1000.csv'           #change path here!!!!!!!!\n        with open(CSV_PATH, newline='') as csvfile:\n            spamreader = csv.reader(csvfile, delimiter=',', quotechar='|')\n            k = spamreader.__next__()\n            for column in spamreader:\n                #print(column[1])\n                MusicPost.objects.create(\n                    artist_hotttnesss = float(column[1]),\n                    artist_id = column[2],\n                    artist_name = column[6],\n                    artist_terms = column[8].replace(\" \",\"_\"),\n                    release_id = column[10],\n                    song_hotttnesss= float(column[20]),\n                    song_id = column[21],\n                    song_year = float(column[34]),\n                    song_info = 'http://127.0.0.1:8000/juceer/0.1/songs/' + str(column[21]) + '/',\n                    artist_info = 'http://127.0.0.1:8000/juceer/0.1/artists/' + str(column[2]) + '/'\n                    )\n        return HttpResponse('Dataset uploaded')\n\n    def post(self,request):\n        return HttpResponse('Class post based view')\n\n\nclass SearchView(APIView):\n    renderer_classes = [JSONRenderer, CSVRenderer,  TemplateHTMLRenderer]\n    template_name = 'music/list_song.html'\n\n    def get(self, request):\n        query = request.GET.get('q', None)\n        user = None\n        context = {\"query\": query}\n        title = 'You searched for '+ query\n        if query is not None:   \n            SearchQuery.objects.create(user = user, query = query)\n            s_list = MusicPost.objects.filter(artist_name__icontains = str(query)).all()|MusicPost.objects.filter(artist_terms__icontains = str(query)).all()|MusicPost.objects.filter(song_year__icontains = str(query))\n            s_list = s_list.order_by('artist_name').all()\n            context[\"s_list\"] = s_list\n        else:\n            title = \"You search is empty\"\n        serializer = MusicSerializer(s_list, many = True)\n        return Response({'object_list': serializer.data , \"title\": title})",
+			"request",
+			"qs",
+			"tqs_year",
+			"means",
+			">\n",
+			"juceerpost",
+			" \"",
+			"login_required",
+			"0",
+			"or",
+			"})"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "music/templates/music/Stat_artist.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								857,
+								857
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 381.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "music/templates/music/list_artist.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "music/urls.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								906,
+								906
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "music/templates/music/detail_song.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2230,
+								2230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 579.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 38.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prj.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\yulyz\\Desktop\\web\\udemy_pr\\newpr.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,36 @@
+  <nav class="navbar navbar-expand-lg navbar-light bg-warning" style="background-color:#a3c7f0!important;">
+    <a class="navbar-brand" href="/">Juceer</a>     <a class="navbar-brand" href="/">
+        <img style="max-width:30px; margin: 0 auto; display: block; margin-left: auto; margin-right: auto;" src="https://i.ibb.co/GHm7ZB3/icon2.png">
+        </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/">Home<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/juceer/0.1/artists/">Music</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Sort by
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/juceer/0.1/artists/">Artist in alphabet order</a>
+          <a class="dropdown-item" href="/juceer/0.1/genres/">Artist by genre</a>
+          <a class="dropdown-item" href="/juceer/0.1/artists/hottest/25/">Artist by popularity</a>
+          <a class="dropdown-item" href="/juceer/0.1/songs/">Songs by popularity</a>
+          <a class="dropdown-item" href="/juceer/0.1/songs/years/">Songs by year</a>
+        </div>
+      </li>
+
+    </ul>
+    <form class="form-inline my-8 my-lg-0" action = "/juceer/0.1/search/">
+      <input class="form-control mr-sm-2" type="search" name = "q" placeholder="Search for your artists!" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>
+  </div>
+</nav>

@@ -1,0 +1,14 @@
+{% extends "music/base.html" %}
+
+{% block content %}
+	<h1>{{title}} {% if song_year %} in {{song_year}} {% endif %}</h1>
+
+	<hr>
+	{% for object in object_list %}
+		<li> <a href = '/juceer/0.1/artists/{{object.artist_id}}/'>{{object.artist_name}}</a></li>
+ 		<hr>
+	{% endfor %}
+	
+{% endblock %}
+
+

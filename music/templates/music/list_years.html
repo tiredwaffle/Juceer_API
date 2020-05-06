@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1>{{title}}</h1>
+	<hr>
+	{% for a in object_list %}
+	{% if a != '' and a != ' ' %}
+		<li><a href='/juceer/0.1/songs/years/{{a.song_year}}/hottest/25'>{{a.song_year}}</a></li>
+		<hr>
+	{% endif %}
+	{% endfor %}
+	
+{% endblock %}
+

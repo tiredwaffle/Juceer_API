@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3>Details of '{{object.artist_name}}' band</h3>
+<p>Artist ID: {{object.artist_id}}</p>
+<div class="container">
+	<div class="card border-primary mb-3">
+		<div class="card-header" id="headingOne">
+			<h2 class="mb-0">
+				<button class="btn btn-primary btn-smbtn-primary " data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+				More information
+			</button>
+			</h2>
+		</div>
+
+		<div id="collapseOne" class="collapse" aria-labelledby="headingOne">
+			<div class="card-body">
+
+	<p>Artist Hotttnesss: {{object.artist_hotttnesss}}</p>
+	<p>Artist Terms: {{object.artist_terms}}</p>
+
+
+				</div>
+		</div>
+		
+		
+	</div>
+	
+	<div class="card border-primary mb-3">
+		<div class="card-header" id="headingTwo">
+			<h2 class="mb-0">
+				<button class="btn btn-primary btn-smbtn-primary " data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				Useful links
+			</button>
+			</h2>
+		</div>
+		<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo">
+			<div class="card-body">
+			
+			<p><a href = {{songs_of_the_artist}}>Songs</a></p>
+			<p><a href = {{statistic_of_the_artist}}>Statictics</a></p>
+				
+			</div>
+		</div>
+		
+		
+		
+	</div>
+	
+</div>
+	
+
+{% endblock %}
+
+ 
